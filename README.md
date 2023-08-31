@@ -62,8 +62,7 @@ The easiest way to deploy your Plasmo extension is to use the built-in [bpp](htt
 * [Plasmo Framework](https://docs.plasmo.com/framework)
 
 
-## Demo
-[Youtube](https://youtu.be/Xfecvnx_fig?si=dkjA76fAeianMm6I)
+
 
 
 
